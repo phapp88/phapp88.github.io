@@ -116,11 +116,6 @@ img {
     padding-top: 0;
   }
 
-  #js-calc-gh-link { /* javascript calculator github link is 2 lines */
-    position: relative;
-    right: 32.5px;
-  }
-
   #name {
     line-height: normal;
     margin-bottom: 1px;
